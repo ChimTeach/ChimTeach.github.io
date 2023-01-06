@@ -1,2 +1,2 @@
-# chimteach.github.io
+# janzentjens.github.io
 Blog page
